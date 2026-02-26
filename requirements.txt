@@ -1,5 +1,6 @@
+streamlit
+pandas
 plotly
 seaborn
 matplotlib
 scipy
-streamlit==1.29.0
